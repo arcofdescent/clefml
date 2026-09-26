@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "clefml"
-version = "0.0.1"
+version = "0.0.2"
 description = "Small open-weights language models for symbolic music (placeholder release, work in progress)."
 readme = "README.md"
 license = "MIT"
