@@ -24,4 +24,4 @@ Phase 0 and 1 of the plan: choose and license-check two or three corpora, build 
 
 ## License
 
-Not chosen yet.
+[MIT](LICENSE).
