@@ -1,0 +1,14 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "clefml"
+version = "0.0.1"
+description = "Small open-weights language models for symbolic music (placeholder release, work in progress)."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Rohan Almeida" }]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/clefml"]
