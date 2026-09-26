@@ -1,6 +1,6 @@
-# notation-expert
+# Clef
 
-Small open-weights language models that are experts in symbolic music, built as a learning project: a reproducible data pipeline, a benchmark with programmatic checkers, fine-tuned models, and an honest write-up of what worked.
+**Clef** is a family of small open-weights language models that are experts in symbolic music. It is built as a learning project: a reproducible data pipeline, a benchmark with programmatic checkers, fine-tuned models, and an honest write-up of what worked.
 
 The first model is a **notation expert**: it reads, checks, transforms and converts scores in a text format. Later models cover comprehension and harmony, arrangement, and composition.
 
